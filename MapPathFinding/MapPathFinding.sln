@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MapPathFinding", "MapPathFinding.vcxproj", "{818E14CF-8DF6-4D93-8199-2BD71ED9776E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Debug|x64.ActiveCfg = Debug|x64
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Debug|x64.Build.0 = Debug|x64
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Debug|x86.ActiveCfg = Debug|Win32
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Debug|x86.Build.0 = Debug|Win32
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Release|x64.ActiveCfg = Release|x64
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Release|x64.Build.0 = Release|x64
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Release|x86.ActiveCfg = Release|Win32
+		{818E14CF-8DF6-4D93-8199-2BD71ED9776E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EB2BB8F-D256-47A9-B92B-9A6E0286FFE0}
+	EndGlobalSection
+EndGlobal

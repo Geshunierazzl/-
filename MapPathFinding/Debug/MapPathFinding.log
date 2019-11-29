@@ -1,0 +1,17 @@
+﻿  Map.cpp
+E:\c++\MapPathFinding\Map.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(26,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(48,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(65,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(73,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(94,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(106,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(114,22): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(117,23): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(141,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(157,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(161,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(183,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(192,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\c++\MapPathFinding\Map.cpp(199): warning C4715: “Map::GetNodeBySign”: 不是所有的控件路径都返回值
+  MapPathFinding.vcxproj -> E:\c++\MapPathFinding\Debug\MapPathFinding.exe
