@@ -22,8 +22,6 @@ public:
 	void DeleteNodeBySign(int nSign);
 	void Show();
 
-	vector<int> GetNodeByPathLength(int nStart, int nPathLength);
-
 	Map(int nNodeNum, int nMapSide);
 	Map();
 	virtual ~Map();
